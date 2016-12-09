@@ -1,0 +1,8 @@
+c:\users\mindator\documents\visual studio 2015\Projects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+c:\users\mindator\documents\visual studio 2015\Projects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+c:\users\mindator\documents\visual studio 2015\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+c:\users\mindator\documents\visual studio 2015\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+c:\users\mindator\documents\visual studio 2015\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+c:\users\mindator\documents\visual studio 2015\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.Cache
+c:\users\mindator\documents\visual studio 2015\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+c:\users\mindator\documents\visual studio 2015\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
